@@ -2,7 +2,7 @@
   "Author": "Join-Taoist",
   "Name": "Zhuangzi",
   "InternalName": "Zhuangzi",
-  "AssemblyVersion": "0.1.8.3",
+  "AssemblyVersion": "0.1.8.2",
   "Description": "A modular Dalamud plugin for movement, action, gathering, PvP, treasure and diagnostic utilities.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Join-Taoist/Zhuangzi",
