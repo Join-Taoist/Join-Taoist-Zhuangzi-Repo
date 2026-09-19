@@ -2,8 +2,8 @@
   "Author": "Join-Taoist",
   "Name": "Zhuangzi",
   "InternalName": "Zhuangzi",
-  "AssemblyVersion": "0.1.8.10",
-  "Description": "A modular Dalamud plugin for movement, action, gathering, PvP, treasure and diagnostic utilities.",
+  "AssemblyVersion": "0.1.8.11",
+  "Description": "/zz→打开Zhuangzi配置窗口",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
   "Tags": [
@@ -14,6 +14,6 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "A personal Dalamud utility plugin.",
+  "Punchline": "/zz→打开Zhuangzi配置窗口",
   "AcceptsFeedback": true
 }
