@@ -1,0 +1,19 @@
+{
+  "Author": "Join-Taoist",
+  "Name": "Zhuangzi",
+  "InternalName": "Zhuangzi",
+  "AssemblyVersion": "0.1.8.1",
+  "Description": "A modular Dalamud plugin for movement, action, gathering, PvP, treasure and diagnostic utilities.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Join-Taoist/Zhuangzi",
+  "Tags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A personal Dalamud utility plugin.",
+  "AcceptsFeedback": true
+}
