@@ -2,8 +2,8 @@
   "Author": "Join-Taoist",
   "Name": "Zhuangzi",
   "InternalName": "Zhuangzi",
-  "AssemblyVersion": "0.1.8.18",
-  "Description": "​",
+  "AssemblyVersion": "0.1.8.19",
+  "Description": "/zz→打开Zhuangzi配置窗口",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
   "Tags": [
