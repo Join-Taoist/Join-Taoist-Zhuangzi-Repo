@@ -7,3 +7,10 @@ Repository URL for Dalamud:
 `https://raw.githubusercontent.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo/main/pluginmaster.json`
 
 This repository contains only distribution artifacts and repository metadata. Plugin source is maintained separately.
+
+## Current release
+
+Stable version: **0.3.0.8**.
+
+- [Release notes](docs/releases/0.3.0.8.md)
+- [Protected installation package](plugins/Zhuangzi/latest.zip)
