@@ -10,7 +10,7 @@ This repository contains only distribution artifacts and repository metadata. Pl
 
 ## Current release
 
-Stable version: **0.3.0.8**.
+Stable version: **0.3.0.9**.
 
-- [Release notes](docs/releases/0.3.0.8.md)
+- [Release notes](docs/releases/0.3.0.9.md)
 - [Protected installation package](plugins/Zhuangzi/latest.zip)
